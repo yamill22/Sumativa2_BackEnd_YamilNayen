@@ -1,3 +1,5 @@
 DECLARACION USO DE IA:
 
 - Se utilizo IA para las ideas de los datos de las editoriales y los libros
+- Consultas puntuales (No de codigo)
+- Ayudame de recomendacion de datos para los modelos (nombre, telefono, etc.)
